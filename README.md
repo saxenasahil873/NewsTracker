@@ -9,3 +9,4 @@ pod 'Firebase/Analytics'
 pod 'Firebase/Storage'
 
 2) Now you can run the project
+3) You have to install package dependecy sdwebimage through this link "https://github.com/SDWebImage/SDWebImage.git"
